@@ -1,4 +1,4 @@
-![Masterhead](https://hosting.photobucket.com/images/i/melissavi08/WEB_DEVELOPER.gif?width=590&height=590&fit=bounds)
+![Masterhead](https://hosting.photobucket.com/images/i/melissavi08/WEB_DEVELOPER_2.0.gif)
 <h1 align="center">Hi 👋, I'm Melissa Villegas</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <p align="center">
